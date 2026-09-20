@@ -60,4 +60,4 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), per the Hackathon's submission licensing requirements. See `LICENSE`.
+Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), per the Hackathon's submission licensing requirements. See [LICENSE](LICENSE).
