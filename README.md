@@ -35,7 +35,7 @@ See `docs/` for the full methods write-up and reproducibility notes.
 
 ## Reproducing This Pipeline
 
-Requires `bcftools`/`samtools`/`tabix` (â‰¥1.17) and Ensembl VEP with a GRCh38 cache. See `docs/README.md` for full environment setup.
+Requires `bcftools`/`samtools`/`tabix` (1.17) and Ensembl VEP with a GRCh38 cache. See `docs/README.md` for full environment setup.
 
 ```bash
 ./scripts/run_stage1_mva_filter.sh <path_to_vcf.gz> <output_dir>
